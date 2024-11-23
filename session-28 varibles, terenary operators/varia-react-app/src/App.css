@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+table{
+  background-color: burlywood;
+  border: 3px solid black;
+  border-collapse: collapse;
+  width: 70%; /*now table becomes responsive*/
+  margin:15px;
+}
+th,td{
+  border: 3px solid black;
+}
+caption{
+  background-color: maroon;
+  color:rgb(216, 216, 232);
+  font-size:1.5rem;
+}
+
